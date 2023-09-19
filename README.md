@@ -16,7 +16,7 @@ Links to the csv of each of them are:
 5. [Link](https://github.com/aakore/se_project_1_grp_57/blob/main/5%20projects%20evaluation/Project_M.csv) for 	Project M - C.E.L.T - The Sentiment Analyser - https://github.com/mrpudlo/SE_Project1
 
 ## Youtube Video on running a Project
-We decided to select [Project M - C.E.L.T - The Sentiment Analyser](https://github.com/mrpudlo/SE_Project1) for project 2. And we have successfully run that project in our system.
+We decided to select [Project M - C.E.L.T - The Sentiment Analyser](https://github.com/mrpudlo/SE_Project1) for project 2. And we have successfully run that project in our system.  
 __Youtube Video for its demo__ can be found [here](https://www.youtube.com/watch?v=w2cbuHDaSz4)
 
 ## Documentation on Project Setup
