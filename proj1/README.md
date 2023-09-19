@@ -8,7 +8,7 @@
 
 ## Evaluation of 5 Projects
 We evaluated 5 projects assigned to our group 57 as per [project2 rubic](https://github.com/txt/se23/blob/main/docs/project2.md).
-Links to the csv of each of them are:
+Links to the csv files of each of them are as follows:
 1. [Scorecard](5%20projects%20evaluation/Project%20V.csv) for Project V - Sync Ends - End development overheads! - https://github.com/jaymodi98/csc510-project
 2. [Scorecard](5%20projects%20evaluation/Project%20m%20-%20ClassMateBot.csv) for Project m - ClassMateBot - https://github.com/lyonva/ClassMateBot
 3. [Scorecard](5%20projects%20evaluation/Project%20p.csv) for 	Project p - Wolftrack 3.0 - https://github.com/nehajaideep/WolfTrack3.0
