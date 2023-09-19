@@ -22,4 +22,4 @@ __Youtube Video for its demo__ can be found [here](https://www.youtube.com/watch
 ## Documentation on Project Setup
 We faced few issues while setting up the desired project.  
 We have explained it in a 750 words MD file.  
-[Click here]() to view it!!
+[Click here](Setup_Experience_and_Comments.md) to view it!!
